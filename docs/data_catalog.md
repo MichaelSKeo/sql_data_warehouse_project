@@ -2,8 +2,7 @@
 
 ## Overview 
 -------------------------------------------------------------------------------------------------------------------------------
-### The Gold layer is the busines-level data presentation, structured to support analytical and reporting use cases. It consists 
-### of dimension tabels and fact tables for specific business metrics. 
+### The Gold layer is the busines-level data presentation, structured to support analytical and reporting use cases. It consists of dimension tabels and fact tables for specific business metrics. 
 ===============================================================================================================================
 
 1. gold.dim_customers:
