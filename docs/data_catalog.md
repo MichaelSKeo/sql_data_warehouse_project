@@ -5,8 +5,8 @@
 -------------------------------------
 
 ##### 1. gold.dim_customers:
-    - ***Purpose:*** store customer details enriched with demographic and geographic data.
-    - ***Columns:***
+    - Purpose: store customer details enriched with demographic and geographic data.
+    - Columns:
 
 | Column Name    | Data Type    | Description                                                                        |
 | -----------    | ---------    | -----------------------------------------------------------------------------------| 
@@ -22,9 +22,9 @@
 | create_date    | DATE         | The date and time when the customer record was created in the system               | 
 
 ##### 2. gold.dim_products:
-   - ***Purpose:*** provides information about the products and their attributes.
-   - ***Columns:***
+   - Purpose: provides information about the products and their attributes.
+   - Columns:
      
 ##### 3. gold.fact_sales 
-    - ***Purpose:*** provides details of sales transactions with sales amount, price, and quantity.
-    - ***Columns:***
+    - Purpose: provides details of sales transactions with sales amount, price, and quantity.
+    - Columns:
