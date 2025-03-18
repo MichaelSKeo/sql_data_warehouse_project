@@ -5,8 +5,8 @@
 -------------------------------------
 
 1. gold.dim_customers:
-    - Purpose: store customer details enriched with demographic and geographic data.
-    - Columns:
+    - ***Purpose:*** store customer details enriched with demographic and geographic data.
+    - ***Columns:***
 
 
 
